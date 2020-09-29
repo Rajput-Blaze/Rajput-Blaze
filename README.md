@@ -3,7 +3,7 @@
 <!--
 **Rajput-Blaze/Rajput-Blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there, I'm  [Vishwajeet Singh][website] 👋
+### Hi there, I'm  [Vishwajeet Singh] 👋
 
 ## I'm a 😍😍 Full Stack Lover 😍😍!
 - 🔭 I’m currently Pursuing B.tech In[Sagar Institute of Science and Technology][https://www.sistec.ac.in/]!
