@@ -50,7 +50,7 @@
 <br />
 <img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=rajput-blaze&show_icons=true&theme=radical&hide=prs,issues"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-blaze&layout=compact&theme=radical&card_width=550px)](https://github.com/Rajput-Blaze/)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-blaze&layout=compact&theme=radical&card_width=500)](https://github.com/Rajput-Blaze/)
 
 
 
