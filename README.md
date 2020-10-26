@@ -5,20 +5,38 @@
 -->
 ### Hi there, I'm  [Vishwajeet Singh] 👋
 
-## I'm a 😍😍 Full Stack Lover 😍😍!
+## I'm a 😍😍 Full Stack developer/ 😍😍!
 - 🔭 I’m currently Pursuing B.tech In[Sagar Institute of Science and Technology][https://www.sistec.ac.in/]!
 - 🥅 2020 Goals: Learn React, React Native,  Node
 - 👯 I’m looking to collaborate on ...React.js Projects
 - 💬 Ask me about ...Web Development with React js 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I love to Explore the world 
+## Programming language
+   - c(basic)
+   - c++(basic)
+   - python(intermediate)
+   - javaScript(proficient)
+                       
+ ### Front-end
+  - React.js (UI-Library)
+  - redux/react-redux(library)
+  - react-router-dom(Library)
+  - Bootstrap(CSS framework )
+  
+### Back-end
+  - Node.js
+  - Expres.js
 
+###  Database
+  - Mysql
+          
+       
+     
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vishwajeet-singh-rajput/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/) 
- 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/solaiman-shadin)
+
 
 <br />
 
