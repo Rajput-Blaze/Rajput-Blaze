@@ -73,6 +73,15 @@
 
 <img  width="550px" src="https://wakatime.com/share/@f18998d0-74f2-4485-9d40-29a01f7b18bc/1061deb9-3bff-4b75-9489-8e8cdf1e0815.png">
 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/pin/?username=Rajput-Blaze&repo=react_weather&layout=compact&theme=radical&card_width=500)](https://github.com/Rajput-Blaze/)
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/pin/?username=Rajput-Blaze&repo=todo&layout=compact&theme=radical&card_width=500)](https://github.com/Rajput-Blaze/)
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/pin/?username=Rajput-Blaze&repo=RestFul_api&layout=compact&theme=radical&card_width=500)](https://github.com/Rajput-Blaze/)
+
+
 [twitter]: https://vishwajeet.tech/
 [linkedin]: https://vishwajeet.tech/
 [webdevplaylist]: https://vishwajeet.tech/
